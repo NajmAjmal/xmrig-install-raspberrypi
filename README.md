@@ -31,7 +31,10 @@ If you are going to use Moneroocean As your Mining pool, Then you can use this t
 
     curl -s -L https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.sh | bash -s 4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi
     
-At the end of this Command you can Change this XMR Address to yours
+
+At the end of this Command you can Change this XMR Address to yours.
+
+Also if you want to see your progress, you can Visit [Moneroocean.stream](https://moneroocean.stream/)
 
 
 #  Donate
