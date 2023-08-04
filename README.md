@@ -32,9 +32,7 @@ If you are going to use Moneroocean As your Mining pool, Then you can use this t
     sudo wget -qO- https://raw.githubusercontent.com/NajmAjmal/xmrig-install-raspberrypi/main/install | bash
     
 
-At the end of this Command you can Change this XMR Address to yours.
-
-Also if you want to see your progress, you can Visit [Moneroocean.stream](https://moneroocean.stream/)
+View your mining progress at [Moneroocean.stream](https://moneroocean.stream/)
 
 
 #  Donate
