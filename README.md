@@ -29,7 +29,7 @@ For the last command you can customise it to your on preference by changing the,
 If you are going to use Moneroocean As your Mining pool, Then you can use this to quickly install scripts on ANY Linux computer
 
 
-    curl -s -L https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.sh | bash -s 4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi
+    sudo wget -qO- https://raw.githubusercontent.com/NajmAjmal/xmrig-install-raspberrypi/main/install | bash
     
 
 At the end of this Command you can Change this XMR Address to yours.
