@@ -1,5 +1,7 @@
 ## Install XMRig on Raspberry Pi
 
+> For other devices, Install XMRig [here](https://github.com/NajmAjmal/xmrig-install)
+
 # Method 1: Install direct from the source
 
 
