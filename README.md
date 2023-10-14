@@ -5,7 +5,7 @@
 # Method 1: Install direct from the source
 
 
-    sudo apt update && sudo apy upgrade -y
+    sudo apt update && sudo apt upgrade -y
     sudo apt full-upgrade -y
     sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y
     git clone https://github.com/xmrig/xmrig.git
