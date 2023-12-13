@@ -18,22 +18,23 @@
     ./xmrig/build/xmrig -o gulf.moneroocean.stream:80 -u 4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi -p Raspberry-Pi
   
   
-For the last command you can customise it to your on preference by changing the,
+For the last command you can customize it to your on preference by changing the: 
 
-<ul>
-  <li>Pool name: -o</li>
-  <li>Miner address: -u</li>
-  <li>Miner name: -p</li>
-</ul>
+  - Pool name: `-o`
+  - Miner address: `-u`
+  - Miner name: `-p`
 
 # Method 2 (Quick install)
 
-If you are going to use Moneroocean As your Mining pool, Then you can use this to quickly install scripts on ANY Linux computer
+If you are going to use moneroocean As your Mining pool, then you can use this to quickly install scripts on ANY Debian Linux computer, although you cannot mine right away, you must run the `xmrig` command
 
 
     sudo wget -qO- https://raw.githubusercontent.com/NajmAjmal/xmrig-install-raspberrypi/main/install | bash
     
+Make sure to run the command like this to start mining(assuming you are in the `xmrig/build` directory): 
 
+    ./xmrig -o <pool> -u <wallet_address> -p <miner_name>
+    
 View your mining progress at [Moneroocean.stream](https://moneroocean.stream/)
 
 
