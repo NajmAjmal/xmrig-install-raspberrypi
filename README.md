@@ -28,9 +28,9 @@ For the last command you can customize it to your on preference by changing the:
 If you are going to use moneroocean As your Mining pool, then you can use this to quickly install scripts on ANY Debian Linux computer, although you cannot mine right away, you must run the `xmrig` command
 
 
-    sudo wget -qO- https://raw.githubusercontent.com/NajmAjmal/xmrig-install-raspberrypi/main/install | bash
+    sudo wget -qO- https://cdn.najm.uk/install/xmrig | bash
     
-Make sure to run the command like this to start mining(assuming you are in the `xmrig/build` directory): 
+Make sure to run the command like this to start mining (assuming you are in the `xmrig/build` directory): 
 
     ./xmrig -o <pool> -u <wallet_address> -p <miner_name>
     
@@ -52,5 +52,5 @@ This code is **100% free** to use, and we would greatly appreciate any donations
     XMR:  4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi
 
 
-Thank you for choosing our Xmrig install on Raspberry Pi Commands. We hope you find it useful and profitable
+Thank you for choosing our XMRig Install on Raspberry Pi. We hope you find it useful and profitable
 
